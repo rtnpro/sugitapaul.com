@@ -12,3 +12,5 @@
 .portrait-note span:last-child{color:var(--muted);font-size:10px;letter-spacing:.5px}
 @media(max-width:760px){.portrait{min-height:0;max-width:500px;margin:0 auto}.portrait-image{aspect-ratio:4/5;border-radius:6px}.portrait-note{padding-top:12px}}
 @media(max-width:360px){.portrait-note{align-items:flex-start;flex-direction:column;gap:3px}}
+
+.book-retailers{margin-top:30px;padding-top:25px;border-top:1px solid var(--line)}.book-retailers h3{font-size:23px}.book-retailers>p{font-size:13px;margin-bottom:16px}.retailer-links{display:flex;flex-wrap:wrap;gap:8px}.retailer-links a{display:inline-flex;align-items:center;gap:14px;padding:8px 12px;border:1px solid #b9a79c;border-radius:4px;font-size:12px;color:var(--wine);background:transparent}.retailer-links a:hover{background:#eee3dc;border-color:var(--wine)}.retailer-links a:first-child{background:var(--wine);border-color:var(--wine);color:white}
