@@ -18,7 +18,7 @@ Open http://localhost:8000. No build step or package installation is required. C
 - `style.css`: responsive styling.
 - `assets/`: portraits used by the hero and author sections.
 
-Positioning follows the supplied niche document and C.A.R.E. Partnership Method. Author and book details come from the supplied manuscript. The book graphic is a typographic illustration, not the final cover.
+Positioning follows the supplied niche document and C.A.R.E. Partnership Method. Author and book details come from the supplied manuscript. The book cover is sourced from its Amazon listing: https://www.amazon.com/dp/B0H7PT3Q28.
 
 Contact links lead to @sugitapaul on Instagram. No messages are sent automatically and no form data is collected. Google Fonts supplies the web fonts, with local fallback fonts.
 
